@@ -1,0 +1,13 @@
+players have 2 cards
+look at first card
+    calculate possible hands
+look at second card
+    calculate possible hands
+
+
+there is going to have to be a wildcard for calculations
+    if player has 2 club A diamond they could possibly get any combo of other 2s or As
+
+
+if 5 draws, if 4 draws, if 3 draws
+    need to create a deal
